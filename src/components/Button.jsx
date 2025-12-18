@@ -9,7 +9,7 @@ const Button = () => {
         whileTap = {{ scale: 0.9 }} 
         transition={{duration : 0.12 , ease : "easeOut"}}
         className='h-11 px-6
-        rounded-xl 
+        rounded-lg
         bg-blue-600 
         text-white 
         text-sm 
